@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const elem = document.getElementById('level');
+const element = document.getElementById('level');
 let count = 0;
 
 while(element.parentElement !== null){
